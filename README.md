@@ -1,4 +1,4 @@
-# vue-cli-plugin-pug-template
+# vue-cli-preset-basic-project
 
 ## Run it
 ```bash
